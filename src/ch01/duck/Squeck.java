@@ -1,4 +1,4 @@
-package ch01;
+package ch01.duck;
 
 public class Squeck implements QuackBehavior{
     @Override

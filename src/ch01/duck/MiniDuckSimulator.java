@@ -1,4 +1,4 @@
-package ch01;
+package ch01.duck;
 
 public class MiniDuckSimulator {
     public static void main(String[] args){
